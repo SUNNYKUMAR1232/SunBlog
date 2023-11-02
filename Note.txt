@@ -1,0 +1,1 @@
+for installation composer create-project laravel/laravel example-app
